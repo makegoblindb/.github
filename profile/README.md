@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-O **GoblinDB** é uma organização focada no desenvolvimento de infraestrutura de dados moderna, priorizando a eficiência binária sem perder a flexibilidade dos bancos de dados orientados a documentos.
+O **GoblinDB** é uma base de dados moderna, priorizando a eficiência binária sem perder a flexibilidade dos bancos de dados orientados a documentos.
 
-### 👺 Sobre o GoblinDB
+### 👺 Sobre o Goblins
 Nossa organização dedica-se à criação de um ecossistema de banco de dados robusto, baseado na especificação **BMD (Binary Markdown)**. Acreditamos que a interoperabilidade nasce de documentações canônicas rigorosas e de uma arquitetura em camadas bem definida.
 
 ### 🌈 Como contribuir
